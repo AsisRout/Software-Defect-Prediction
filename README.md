@@ -8,6 +8,6 @@
 ###### upload the datasets to the Google collab and run the model
 ## Contribution 
 ###### 1. Asis Rout (181IT108)
-###### 2. Ashok BHobhiya (181IT154)
+###### 2. Ashok Bhobhiya (181IT154)
 ###### 3. Jeeukrishnan Kayshyap (181IT220)
 
